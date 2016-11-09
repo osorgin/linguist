@@ -2408,7 +2408,6 @@ MQL4:
   color: "#62A8D6"
   extensions:
   - ".mq4"
-  - ".mqh"
   tm_scope: source.mql5
   ace_mode: c_cpp
   language_id: 426
